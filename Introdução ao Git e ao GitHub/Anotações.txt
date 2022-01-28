@@ -1,0 +1,14 @@
+ Git é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas.
+
+Conhecer o GitHub, sistema colaborativo muito utilizado pelos desenvolvedores para programar em equipe, é um passo fundamental para quem está começando na programação.podemos chamar o GitHub de plataforma de gerenciamento de projetos de open source, mas não só isso. Entre as redes sociais, ele foi criado, pensando em desenvolvedores e permitindo que eles se conectem rapidamente em projetos colaborativos mais assertivos.
+
+Principais características do GitHub
+
+
+➜ Repositório: onde os seus arquivos (códigos, imagens, áudios etc) ficam armazenados, com as opções de depósito do próprio GitHub ou no seu computador;
+
+➜ Branch: cópia do diretório para desenvolvimento isolado, que não afeta o repositório central ou outros branches. Depois de concluir o seu trabalho, você pode combinar o seu branch isolado com outros branches por meio de uma merge, utilizando o Pull Request.
+
+➜ Pull Request: é quando você informa que irá implantar as mudanças no seu branch ao repositório máster, podendo ser aceito ou negado pelos colaboradores. Além disso, é possível revisar e discutir seu trabalho com os demais.  
+
+➜ Forking: é a criação de um novo projeto com base em repositório existentes, fazendo as alterações necessárias e armazenando a nova versão como um novo repositório.
